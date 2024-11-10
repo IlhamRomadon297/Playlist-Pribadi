@@ -452,6 +452,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangh
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Movies",HBO (Indi 720p)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Movies",HBO (Indi 1080p)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+
 -------------------------------------------------- 7. News -------------------------------------------------------
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://awscdn.detik.net.id/20detik3/m/images/cnbctv.png?v=2024080421443" group-title="News",CNBC INDONESIA
